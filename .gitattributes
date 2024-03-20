@@ -1,0 +1,2 @@
+# Set the LFS file extensions
+*.mp4 filter=lfs diff=lfs merge=lfs -text
